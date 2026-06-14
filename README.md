@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 💫Hi there <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="25px"> I am Suraj Bugade
+## 💫 Hi there <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="25px"> I am Suraj Bugade
 👨🏻‍💻 Software Developer specializing in Java backend development and distributed systems.<br>
 <br>🔭 Passionate about problem-solving, backend technologies and scalable systems.<br>
 <br>💬 Ask me about Java, Spring Boot, DSA, System Design, Kafka, Redis & Databases.<br>
