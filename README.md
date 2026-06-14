@@ -15,13 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 💫 Hi there <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="25px"> I am Suraj Bugade
-<img
-  align="right"
-  alt="Coding"
-  width="320"
-  src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa25qZHFiczc0cWNkcDFweW5qcmthanNqMzVmZmIxN2dqenJ5M3o2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PzbYKjm1bTw38OB75z/giphy.gif"
-  style="margin: 20px 10px 20px 10px;"
-/>
+
+<img align="right" alt="Coding" width="340" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa25qZHFiczc0cWNkcDFweW5qcmthanNqMzVmZmIxN2dqenJ5M3o2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PzbYKjm1bTw38OB75z/giphy.gif"/>
+
 👨🏻‍💻 Software Developer specializing in Java backend development and distributed systems.<br>
 <br>🔭 Passionate about problem-solving, backend technologies and scalable systems.<br>
 <br>💬 Ask me about Java, Spring Boot, DSA, System Design, Kafka, Redis & Databases.<br>
@@ -29,6 +25,12 @@ Here are some ideas to get you started:
 <br>🤝 Open to collaborating on backend, open-source, and developer-focused projects.<br>
 <br>⚡ Powered by chai, curiosity, and clean code.
 <br clear="right"/>
+
+<p></p>
+<br>
+
+[![LeetCode](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fsurajbugade&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/surajbugade/)
+[![ProfileViews](https://komarev.com/ghpvc/?username=surajbugade&color=red&style=flat)](https://komarev.com/ghpvc/?username=surajbugade)
 
 ## 🌐 Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/surajbugade) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/surajbugade_) 
@@ -44,7 +46,4 @@ Here are some ideas to get you started:
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
----
-[![](https://komarev.com/ghpvc/?username=surajbugade&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
