@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 💫 Hi there <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="25px"> I am Suraj Bugade
+<img align="right" alt="Coding" width="320" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa25qZHFiczc0cWNkcDFweW5qcmthanNqMzVmZmIxN2dqenJ5M3o2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PzbYKjm1bTw38OB75z/giphy.gif">
 👨🏻‍💻 Software Developer specializing in Java backend development and distributed systems.<br>
 <br>🔭 Passionate about problem-solving, backend technologies and scalable systems.<br>
 <br>💬 Ask me about Java, Spring Boot, DSA, System Design, Kafka, Redis & Databases.<br>
