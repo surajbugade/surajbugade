@@ -19,8 +19,7 @@ Here are some ideas to get you started:
 <img
   align="right"
   alt="Coding"
-  width="300"
-  src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm44dW5laHBiNDBhOGx2aGNjamM5OHNicTJreTg1dDI2ZzZrbzVhNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7XfCk0kF7xlChHeAzb/giphy.gif"
+  width="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGw5ODVnbWtqZXJ1cDF1YnIyNTF6M2huOGxyeWNiZmJkcGVxMTRzMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7XfCk0kF7xlChHeAzb/giphy.gif"
   style="margin: 30px 15px 20px 15px;"
 />
 
