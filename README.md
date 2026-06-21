@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   align="right"
   alt="Coding"
   width="300"
-  src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa25qZHFiczc0cWNkcDFweW5qcmthanNqMzVmZmIxN2dqenJ5M3o2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PzbYKjm1bTw38OB75z/giphy.gif"
+  src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm44dW5laHBiNDBhOGx2aGNjamM5OHNicTJreTg1dDI2ZzZrbzVhNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7XfCk0kF7xlChHeAzb/giphy.gif"
   style="margin: 30px 15px 20px 15px;"
 />
 
